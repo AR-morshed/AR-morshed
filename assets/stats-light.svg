@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<style>.f{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}</style>
+<rect x=".75" y=".75" width="1198.5" height="148.5" rx="20" fill="#F8F6EF" stroke="rgba(16,23,42,.15)" stroke-width="1.5"/><g class="f" style="animation-delay:0.00s">
+<text x="32" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="50" fill="#10172A">6+</text>
+<text x="34" y="112" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#64665F">years in iOS</text></g><g class="f" style="animation-delay:0.15s">
+<text x="332" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="50" fill="#10172A">5</text>
+<text x="334" y="112" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#64665F">apps shipped or launching</text></g><line x1="300" y1="28" x2="300" y2="122" stroke="rgba(16,23,42,.15)"/><g class="f" style="animation-delay:0.30s">
+<text x="632" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="50" fill="#A96212">60–65%</text>
+<text x="634" y="112" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#64665F">faster MyGP app load</text></g><line x1="600" y1="28" x2="600" y2="122" stroke="rgba(16,23,42,.15)"/><g class="f" style="animation-delay:0.45s">
+<text x="932" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="34" fill="#10172A">BD · CH · UAE</text>
+<text x="934" y="112" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#64665F">apps used in 3 regions</text></g><line x1="900" y1="28" x2="900" y2="122" stroke="rgba(16,23,42,.15)"/></svg>
